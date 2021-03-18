@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/umarshahid/umarshahid/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Umar Shahid
+_Systems Engineer (in stream of Communication Systems & Networks)_<br>
+[Email](mailto:ushahid.msse18@rcms.nust.edu.pk)
 
 ### Markdown
 
