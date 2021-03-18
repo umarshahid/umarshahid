@@ -1,6 +1,6 @@
 ## Umar Shahid
 _Systems Engineer (in stream of Communication Systems & Networks)_<br>
-[Email](mailto:ushahid.msse18@rcms.nust.edu.pk) / [Call](callto:+923331618963)
+[Email](mailto:ushahid.msse18@rcms.nust.edu.pk) / [Cell] +92 (333) 1618 963
 
 ### Markdown
 
