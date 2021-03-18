@@ -4,11 +4,11 @@ _Systems Engineer (in stream of Communication Systems & Networks)_<br>
 
 ### Education
 
-- __MS SYSTEMS ENGINEERING    2018 - 2020 __<br>
+**MS SYSTEMS ENGINEERING    2018 - 2020**<br>
 _National University of Sciences and Technology, Islamabad_<br>
 _Grades: 3.75 / 4.00_<br>
 
-- __BS INFORMATION TECHNOLOGY     2014 - 2018 __<br>
+**BS INFORMATION TECHNOLOGY     2014 - 2018** <br>
 _The Islamia University Of Bahawalpur, Bahawalpur_<br>
 _Grades: 3.68 / 4.00_<br>
 
