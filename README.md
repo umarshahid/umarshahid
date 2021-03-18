@@ -1,10 +1,16 @@
 ## Umar Shahid
 _Systems Engineer (in stream of Communication Systems & Networks)_<br>
-[Email](mailto:ushahid.msse18@rcms.nust.edu.pk) / Cell: +92 (333) 1618 963
+[Email](mailto:ushahid.msse18@rcms.nust.edu.pk) / Cell: +92 (333) 1618 963 **|** [Resaerch Gate](https://www.researchgate.net/profile/Umar-Shahid)
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- __MS SYSTEMS ENGINEERING    2018 - 2020 __<br>
+_National University of Sciences and Technology, Islamabad_<br>
+_Grades: 3.75 / 4.00_<br>
+
+- __BS INFORMATION TECHNOLOGY     2014 - 2018 __<br>
+_The Islamia University Of Bahawalpur, Bahawalpur_<br>
+_Grades: 3.68 / 4.00_<br>
 
 ```markdown
 Syntax highlighted code block
