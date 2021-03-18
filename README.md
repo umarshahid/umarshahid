@@ -4,38 +4,46 @@ _Systems Engineer (in stream of Communication Systems & Networks)_<br>
 
 ### Education
 
-**MS SYSTEMS ENGINEERING    2018 - 2020**<br>
+**MS SYSTEMS ENGINEERING    (2018 - 2020)**<br>
 _National University of Sciences and Technology, Islamabad_<br>
 _Grades: 3.75 / 4.00_<br>
 
-**BS INFORMATION TECHNOLOGY     2014 - 2018** <br>
+**BS INFORMATION TECHNOLOGY     (2014 - 2018)** <br>
 _The Islamia University Of Bahawalpur, Bahawalpur_<br>
 _Grades: 3.68 / 4.00_<br>
 
-```markdown
-Syntax highlighted code block
+### Experiance
+**RESEARCH ASSISTAN**, _RCMS-NUST (Oct 2019 - Oct 2020)_<br>
+Under supervision of Dr. Shahzad Rasool, Assistant Professor RCMS, NUST
 
-# Header 1
-## Header 2
-### Header 3
+### Master's Thesis
 
-- Bulleted
-- List
+**EEG-BASED MENTAL WORKLOAD ASSESSMENT USING MACHINE LEARNING     (2019 - 2020)** <br>
+_Supervisors: Dr. Shahzad Rasool, Dr. Adnan Maqsood, Dr Ammar Mushtaq_<br>
+EEG is an objective assessment technique used to record brain activities to monitor brain states
+such as, stress, emotions, drowsiness and workload. In this research EEG is employed to assess
+mental workload from human brain. We developed a pipeline for EEG based mental workload
+assessment using deep machine learning 
+[Link](https://www.researchgate.net/publication/344747532_EEG_Based_Mental_Workload_Assessment_using_Machine_Learning)
 
-1. Numbered
-2. List
+### Projects
 
-**Bold** and _Italic_ and `Code` text
+**MENTAL WORKLOAD DETECTION PIPELINE (Master Project)**<br>
+_A machine learning pipeline for EEG based mental workload assessment_<br>
+[Link](https://umarshahid.github.io/EEG-workload/)
 
-[Link](url) and ![Image](src)
-```
+**NUMBER PLATE RECOGNITION SYSTEM (Bachelor Project)** <br>
+_Desktop application for Pakistani vehicles’ number plates detection using machine learning_<br>
+[Link](https://umarshahid.github.io/NPRS/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Skills & Interests
 
-### Jekyll Themes
+-**Punjabi** Native Speaker
+-**Urdu** Professional user
+-**English** Conversational level
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/umarshahid/umarshahid/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+-**Software:** MATLAB, MS Office, MS Project, Latex
+-**Computer Languages:** C,C++, MATLAB, HTML, Python
+-**Research Interest:** Machine Learning, Deep Learning, EEG, Brain Computer Interface
+-**Hobbies:** Sketching, Book Reading
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
