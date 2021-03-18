@@ -23,7 +23,7 @@ _Supervisors: Dr. Shahzad Rasool, Dr. Adnan Maqsood, Dr Ammar Mushtaq_<br>
 EEG is an objective assessment technique used to record brain activities to monitor brain states
 such as, stress, emotions, drowsiness and workload. In this research EEG is employed to assess
 mental workload from human brain. We developed a pipeline for EEG based mental workload
-assessment using deep machine learning 
+assessment using deep machine learning <br>
 [Link](https://www.researchgate.net/publication/344747532_EEG_Based_Mental_Workload_Assessment_using_Machine_Learning)
 
 ### Projects
@@ -38,12 +38,12 @@ _Desktop application for Pakistani vehicles’ number plates detection using mac
 
 ### Skills & Interests
 
--**Punjabi** Native Speaker
--**Urdu** Professional user
--**English** Conversational level
+-**Punjabi** Native Speaker <br>
+-**Urdu** Professional user <br>
+-**English** Conversational level <br>
 
--**Software:** MATLAB, MS Office, MS Project, Latex
--**Computer Languages:** C,C++, MATLAB, HTML, Python
--**Research Interest:** Machine Learning, Deep Learning, EEG, Brain Computer Interface
--**Hobbies:** Sketching, Book Reading
+-**Software:** MATLAB, MS Office, MS Project, Latex <br>
+-**Computer Languages:** C,C++, MATLAB, HTML, Python <br>
+-**Research Interest:** Machine Learning, Deep Learning, EEG, Brain Computer Interface <br>
+-**Hobbies:** Sketching, Book Reading <br>
 
