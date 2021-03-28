@@ -1,13 +1,11 @@
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+
+# Umar Shahid
+    _Systems Engineer (in stream of Communication Systems & Networks)_<br>
+    [Email](mailto:ushahid.msse18@rcms.nust.edu.pk) / Cell: +92 (333) 1618 963 **|** [Resaerch Gate](https://www.researchgate.net/profile/Umar-Shahid) |  ![](https://github.com/umarshahid/umarshahid/blob/gh-pages/profile%20photo%20(2).jpg)
 
 <table border="0">
  <tr>
-    # Umar Shahid
-    _Systems Engineer (in stream of Communication Systems & Networks)_<br>
-    [Email](mailto:ushahid.msse18@rcms.nust.edu.pk) / Cell: +92 (333) 1618 963 **|** [Resaerch Gate](https://www.researchgate.net/profile/Umar-Shahid)
- </tr>
+    
  <tr>
     <p align="left">
       <img src="https://github.com/umarshahid/umarshahid/blob/gh-pages/profile%20photo%20(2).jpg" width="185">
