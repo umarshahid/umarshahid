@@ -1,26 +1,6 @@
- .iconDetails {
- margin-left:2%;
-float:left; 
-height:40px;
-width:40px; 
-} 
-
-.container2 {
-    width:100%;
-    height:auto;
-    padding:1%;
-}
-
-<div class='container2'>
-        <div>
-            <img src='https://github.com/umarshahid/umarshahid/blob/gh-pages/profile%20photo%20(2).jpg' class='iconDetails'>
-        </div>  
-    <div style='margin-left:60px;'>
-    <h4>Facebook</h4>
-    <div style="font-size:.6em">fine location, GPS, coarse location</div>
-    <div style="float:right;font-size:.6em">0 mins ago</div>
-    </div>
-</div>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
 
 <table border="0">
  <tr>
