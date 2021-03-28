@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://github.com/umarshahid/umarshahid/blob/gh-pages/profile%20photo%20(2).jpg" width="350" title=" ">
+<p align="right">
+  <img src="https://github.com/umarshahid/umarshahid/blob/gh-pages/profile%20photo%20(2).jpg" width="150" title=" ">
 <!--   <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text"> -->
 </p>
 
