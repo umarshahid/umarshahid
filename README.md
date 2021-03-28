@@ -1,18 +1,13 @@
 
-# Umar Shahid
-    _Systems Engineer (in stream of Communication Systems & Networks)_<br>
-    [Email](mailto:ushahid.msse18@rcms.nust.edu.pk) / Cell: +92 (333) 1618 963 **|** [Resaerch Gate](https://www.researchgate.net/profile/Umar-Shahid) |  ![](https://github.com/umarshahid/umarshahid/blob/gh-pages/profile%20photo%20(2).jpg)
-
-<table border="0">
- <tr>
-    
- <tr>
-    <p align="left">
+   <p align="center">
       <img src="https://github.com/umarshahid/umarshahid/blob/gh-pages/profile%20photo%20(2).jpg" width="185">
 <!--         <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text"> -->
     </p>
- </tr>
-</table>
+
+
+# Umar Shahid
+_Systems Engineer (in stream of Communication Systems & Networks)_<br>
+[Email](mailto:ushahid.msse18@rcms.nust.edu.pk) / Cell: +92 (333) 1618 963 **|** [Resaerch Gate](https://www.researchgate.net/profile/Umar-Shahid)
 
 ### Education
 
