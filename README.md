@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
+
 # Umar Shahid
 _Systems Engineer (in stream of Communication Systems & Networks)_<br>
 [Email](mailto:ushahid.msse18@rcms.nust.edu.pk) / Cell: +92 (333) 1618 963 **|** [Resaerch Gate](https://www.researchgate.net/profile/Umar-Shahid)
@@ -38,12 +43,11 @@ _Desktop application for Pakistani vehicles’ number plates detection using mac
 
 ### Skills & Interests
 
--**Punjabi** Native Speaker <br>
 -**Urdu** Professional user <br>
 -**English** Conversational level <br>
 
--**Software:** MATLAB, MS Office, MS Project, Latex <br>
--**Computer Languages:** C,C++, MATLAB, HTML, Python <br>
--**Research Interest:** Machine Learning, Deep Learning, EEG, Brain Computer Interface <br>
--**Hobbies:** Sketching, Book Reading <br>
+-**Computer Languages:** C/C++ | MATLAB | HTML | CSS | Python <br>
+-**Tools:** MATLAB | MS Office | MS Project | Latex <br>
+-**Research Interest:** Machine Learning | Deep Learning | Artificial Intelligence | EEG | Brain Computer Interface <br>
+-**Hobbies:** Sketching | Book Reading <br>
 
