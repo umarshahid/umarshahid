@@ -53,4 +53,4 @@ _Desktop application for Pakistani vehicles’ number plates detection using mac
 -**Research Interest:** Machine Learning | Deep Learning | Artificial Intelligence | EEG | Brain Computer Interface <br>
 -**Hobbies:** Sketching | Book Reading <br>
 
-[[The Curriculum Vitae of Umar Shahid can be found here.]](https://umarshahid.github.io/Profile)
+[[The Curriculum Vitae of Umar Shahid can be found here]](https://umarshahid.github.io/Profile)
