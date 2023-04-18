@@ -6,33 +6,32 @@
 
 
 # Umar Shahid
-_Data Scientist_<br>
+### _Data Scientist_<br>
 [Email](mailto:ushahid.msse18@rcms.nust.edu.pk) / Cell: +92 (333) 1618 963 **|** [Resaerch Gate](https://www.researchgate.net/profile/Umar-Shahid)
 
 
-### Experiance
+## Work Experiance
+
 **RESEARCH ASSISTAN**
 _RCMS-NUST
 10/2019 - 10/2020, ISLAMABAD_<br>
-Real-time brain state data collection 
-Descriptive Data Analysis, Data Cleaning & Data Visualization 
-Data classification & prediction using Machine & Deep Learning
-Under supervision of Dr. Shahzad Rasool, Assistant Professor RCMS, NUST
+- Real-time brain state data collection 
+- Descriptive Data Analysis, Data Cleaning & Data Visualization 
+- Data classification & prediction using Machine & Deep Learning
+- Under supervision of Dr. Shahzad Rasool, Assistant Professor RCMS, NUST
 
-### Work Experiance
 **DATA SCIENTIST**
 _Pakistan Air Force
 11/2021 - Present, Islamabad_<br>
-Development 4 major modules for analysis of Airforce's training
-Development of Video, Audio and Text Data analysis tools and
-creation of an Integrated Environment for all three tools to
-operate comprehensively
-Comprehensive Data Recording on a Client/Server Environment
-Descriptive Data Analysis & Visualization and Stream Back to Network
-Review and Analyze Comprehensive Video and Audio Playback
-Research Assistant
+- Development 4 major modules for analysis of Airforce's training
+- Development of Video, Audio and Text Data analysis tools and
+- Creation of an Integrated Environment for all three tools to operate comprehensively
+- Comprehensive Data Recording on a Client/Server Environment
+- Descriptive Data Analysis & Visualization and Stream Back to Network
+- Review and Analyze Comprehensive Video and Audio Playback
 
-### Education
+
+## Education
 
 **MS SYSTEMS ENGINEERING    (2018 - 2020)**<br>
 _National University of Sciences and Technology, Islamabad_<br>
@@ -43,7 +42,7 @@ _The Islamia University Of Bahawalpur, Bahawalpur_<br>
 _Grades: 3.68 / 4.00_<br>
 
 
-### Master's Thesis
+## Master's Thesis
 
 **EEG-BASED MENTAL WORKLOAD ASSESSMENT USING MACHINE LEARNING     (2019 - 2020)** <br>
 _Supervisors: Dr. Shahzad Rasool, Dr. Adnan Maqsood, Dr Ammar Mushtaq_<br>
@@ -53,7 +52,19 @@ mental workload from human brain. We developed a pipeline for EEG based mental w
 assessment using deep machine learning <br>
 [Link](https://www.researchgate.net/publication/344747532_EEG_Based_Mental_Workload_Assessment_using_Machine_Learning)
 
-### Projects
+## Projects
+
+**Airforce's Simulator's Data Analyzer Dashboard (11/2021 - Present)**
+SDA is main data analysis tool specially designed for statistical and graphical analysis on a dashboard for Airforce Exercises
+
+**Comprehensive Replay Discovery Portal & Engine (11/2021 - Present)**
+CRDPE is main server and meant to be a datahub for Airforce Training Exercises and main client launcher for exercise replay
+
+**Comprehensive Video Replay (11/2021 - Present)**
+VRM is client meant to replay Airforce Exercises on video stream for visual analysis 
+
+**Comprehensive Voice Analyzer and Audio Playback (11/2021 - Present)**
+VAAPM is audio analysis modulw and meant to visualize and analyze voice wave and replay audio
 
 **MENTAL WORKLOAD DETECTION PIPELINE (Master Project)**<br>
 _A machine learning pipeline for EEG based mental workload assessment_<br>
@@ -63,12 +74,12 @@ _A machine learning pipeline for EEG based mental workload assessment_<br>
 _Desktop application for Pakistani vehicles’ number plates detection using machine learning_<br>
 [Link](https://umarshahid.github.io/NPRS/)
 
-### Skills & Interests
+## Skills & Interests
 
 -**Urdu** Professional user <br>
 -**English** Conversational level <br>
 
--**Computer Languages:** C/C++ | MATLAB | HTML | CSS | Python <br>
+-**Computer Languages:** Python | PyQt5| C/C++ | MATLAB <br>
 -**Tools:** MATLAB | MS Office | MS Project | Latex <br>
 -**Research Interest:** Machine Learning | Deep Learning | Artificial Intelligence | EEG | Brain Computer Interface <br>
 -**Hobbies:** Sketching | Book Reading <br>
