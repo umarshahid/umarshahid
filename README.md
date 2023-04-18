@@ -55,23 +55,23 @@ assessment using deep machine learning <br>
 
 ## Projects
 
-**Airforce's Simulator's Data Analyzer Dashboard (11/2021 - Present)**<br>
+**- Airforce's Simulator's Data Analyzer Dashboard (11/2021 - Present)**<br>
 SDA is main data analysis tool specially designed for statistical and graphical analysis on a dashboard for Airforce Exercises<br>
 
-**Comprehensive Replay Discovery Portal & Engine (11/2021 - Present)**<br>
+**- Comprehensive Replay Discovery Portal & Engine (11/2021 - Present)**<br>
 CRDPE is main server and meant to be a datahub for Airforce Training Exercises and main client launcher for exercise replay<br>
 
-**Comprehensive Video Replay (11/2021 - Present)**<br>
+**- Comprehensive Video Replay (11/2021 - Present)**<br>
 VRM is client meant to replay Airforce Exercises on video stream for visual analysis <br>
 
-**Comprehensive Voice Analyzer and Audio Playback (11/2021 - Present)**<br>
+**- Comprehensive Voice Analyzer and Audio Playback (11/2021 - Present)**<br>
 VAAPM is audio analysis modulw and meant to visualize and analyze voice wave and replay audio<br>
 
-**MENTAL WORKLOAD DETECTION PIPELINE (Master Project)**<br>
+**- MENTAL WORKLOAD DETECTION PIPELINE (Master Project)**<br>
 _A machine learning pipeline for EEG based mental workload assessment_<br>
 [Link](https://umarshahid.github.io/EEG-workload/)
 
-**NUMBER PLATE RECOGNITION SYSTEM (Bachelor Project)** <br>
+**- NUMBER PLATE RECOGNITION SYSTEM (Bachelor Project)** <br>
 _Desktop application for Pakistani vehicles’ number plates detection using machine learning_<br>
 [Link](https://umarshahid.github.io/NPRS/)
 
