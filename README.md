@@ -6,8 +6,31 @@
 
 
 # Umar Shahid
-_Systems Engineer (in stream of Communication Systems & Networks)_<br>
+_Data Scientist_<br>
 [Email](mailto:ushahid.msse18@rcms.nust.edu.pk) / Cell: +92 (333) 1618 963 **|** [Resaerch Gate](https://www.researchgate.net/profile/Umar-Shahid)
+
+
+### Experiance
+**RESEARCH ASSISTAN**
+_RCMS-NUST
+10/2019 - 10/2020, ISLAMABAD_<br>
+Real-time brain state data collection 
+Descriptive Data Analysis, Data Cleaning & Data Visualization 
+Data classification & prediction using Machine & Deep Learning
+Under supervision of Dr. Shahzad Rasool, Assistant Professor RCMS, NUST
+
+### Work Experiance
+**DATA SCIENTIST**
+_Pakistan Air Force
+11/2021 - Present, Islamabad_<br>
+Development 4 major modules for analysis of Airforce's training
+Development of Video, Audio and Text Data analysis tools and
+creation of an Integrated Environment for all three tools to
+operate comprehensively
+Comprehensive Data Recording on a Client/Server Environment
+Descriptive Data Analysis & Visualization and Stream Back to Network
+Review and Analyze Comprehensive Video and Audio Playback
+Research Assistant
 
 ### Education
 
@@ -19,9 +42,6 @@ _Grades: 3.75 / 4.00_<br>
 _The Islamia University Of Bahawalpur, Bahawalpur_<br>
 _Grades: 3.68 / 4.00_<br>
 
-### Experiance
-**RESEARCH ASSISTAN**, _RCMS-NUST (Oct 2019 - Oct 2020)_<br>
-Under supervision of Dr. Shahzad Rasool, Assistant Professor RCMS, NUST
 
 ### Master's Thesis
 
