@@ -12,23 +12,23 @@
 
 ## Work Experiance
 
-**RESEARCH ASSISTAN**
-_RCMS-NUST
+**RESEARCH ASSISTAN**<br>
+_RCMS-NUST<br>
 10/2019 - 10/2020, ISLAMABAD_<br>
-- Real-time brain state data collection 
-- Descriptive Data Analysis, Data Cleaning & Data Visualization 
-- Data classification & prediction using Machine & Deep Learning
-- Under supervision of Dr. Shahzad Rasool, Assistant Professor RCMS, NUST
+- Real-time brain state data collection<br>
+- Descriptive Data Analysis, Data Cleaning & Data Visualization<br>
+- Data classification & prediction using Machine & Deep Learning<br>
+- Under supervision of Dr. Shahzad Rasool, Assistant Professor RCMS, NUST<br>
 
-**DATA SCIENTIST**
-_Pakistan Air Force
+**DATA SCIENTIST**<br>
+_Pakistan Air Force<br>
 11/2021 - Present, Islamabad_<br>
-- Development 4 major modules for analysis of Airforce's training
-- Development of Video, Audio and Text Data analysis tools and
-- Creation of an Integrated Environment for all three tools to operate comprehensively
-- Comprehensive Data Recording on a Client/Server Environment
-- Descriptive Data Analysis & Visualization and Stream Back to Network
-- Review and Analyze Comprehensive Video and Audio Playback
+- Development 4 major modules for analysis of Airforce's training<br>
+- Development of Video, Audio and Text Data analysis tools<br>
+- Creation of an Integrated Environment for all three tools to operate comprehensively <br>
+- Comprehensive Data Recording on a Client/Server Environment<br>
+- Descriptive Data Analysis & Visualization and Stream Back to Network<br>
+- Review and Analyze Comprehensive Video and Audio Playback<br>
 
 
 ## Education
@@ -52,19 +52,20 @@ mental workload from human brain. We developed a pipeline for EEG based mental w
 assessment using deep machine learning <br>
 [Link](https://www.researchgate.net/publication/344747532_EEG_Based_Mental_Workload_Assessment_using_Machine_Learning)
 
+
 ## Projects
 
-**Airforce's Simulator's Data Analyzer Dashboard (11/2021 - Present)**
-SDA is main data analysis tool specially designed for statistical and graphical analysis on a dashboard for Airforce Exercises
+**Airforce's Simulator's Data Analyzer Dashboard (11/2021 - Present)**<br>
+SDA is main data analysis tool specially designed for statistical and graphical analysis on a dashboard for Airforce Exercises<br>
 
-**Comprehensive Replay Discovery Portal & Engine (11/2021 - Present)**
-CRDPE is main server and meant to be a datahub for Airforce Training Exercises and main client launcher for exercise replay
+**Comprehensive Replay Discovery Portal & Engine (11/2021 - Present)**<br>
+CRDPE is main server and meant to be a datahub for Airforce Training Exercises and main client launcher for exercise replay<br>
 
-**Comprehensive Video Replay (11/2021 - Present)**
-VRM is client meant to replay Airforce Exercises on video stream for visual analysis 
+**Comprehensive Video Replay (11/2021 - Present)**<br>
+VRM is client meant to replay Airforce Exercises on video stream for visual analysis <br>
 
-**Comprehensive Voice Analyzer and Audio Playback (11/2021 - Present)**
-VAAPM is audio analysis modulw and meant to visualize and analyze voice wave and replay audio
+**Comprehensive Voice Analyzer and Audio Playback (11/2021 - Present)**<br>
+VAAPM is audio analysis modulw and meant to visualize and analyze voice wave and replay audio<br>
 
 **MENTAL WORKLOAD DETECTION PIPELINE (Master Project)**<br>
 _A machine learning pipeline for EEG based mental workload assessment_<br>
@@ -73,6 +74,7 @@ _A machine learning pipeline for EEG based mental workload assessment_<br>
 **NUMBER PLATE RECOGNITION SYSTEM (Bachelor Project)** <br>
 _Desktop application for Pakistani vehicles’ number plates detection using machine learning_<br>
 [Link](https://umarshahid.github.io/NPRS/)
+
 
 ## Skills & Interests
 
