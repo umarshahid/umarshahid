@@ -12,14 +12,6 @@
 
 ## Work Experiance
 
-**RESEARCH ASSISTAN**<br>
-_RCMS-NUST<br>
-10/2019 - 10/2020, ISLAMABAD_<br>
-- Real-time brain state data collection<br>
-- Descriptive Data Analysis, Data Cleaning & Data Visualization<br>
-- Data classification & prediction using Machine & Deep Learning<br>
-- Under supervision of Dr. Shahzad Rasool, Assistant Professor RCMS, NUST<br>
-
 **DATA SCIENTIST**<br>
 _Pakistan Air Force<br>
 11/2021 - Present, Islamabad_<br>
@@ -29,6 +21,14 @@ _Pakistan Air Force<br>
 - Comprehensive Data Recording on a Client/Server Environment<br>
 - Descriptive Data Analysis & Visualization and Stream Back to Network<br>
 - Review and Analyze Comprehensive Video and Audio Playback<br>
+
+**RESEARCH ASSISTAN**<br>
+_RCMS-NUST<br>
+10/2019 - 10/2020, ISLAMABAD_<br>
+- Real-time brain state data collection<br>
+- Descriptive Data Analysis, Data Cleaning & Data Visualization<br>
+- Data classification & prediction using Machine & Deep Learning<br>
+- Under supervision of Dr. Shahzad Rasool, Assistant Professor RCMS, NUST<br>
 
 
 ## Education
