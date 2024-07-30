@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="480" height="400" src="https://github.com/umarshahid/NPRS/blob/master/collage.png">
+  <img width="600" height="600" src="https://github.com/umarshahid/NPRS/blob/master/collage.png">
 </p>
 
 
