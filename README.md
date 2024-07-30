@@ -1,8 +1,6 @@
-
-   <p align="center">
-      <img src="https://github.com/umarshahid/umarshahid/blob/gh-pages/Profile_Photo.JPG" width="185">
-<!--         <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text"> -->
-    </p>
+<p align="center">
+  <img width="480" height="400" src="https://github.com/umarshahid/NPRS/blob/master/collage.png">
+</p>
 
 
 # Umar Shahid
@@ -87,3 +85,7 @@ _Desktop application for Pakistani vehicles’ number plates detection using mac
 -**Hobbies:** Sketching | Book Reading <br>
 
 [[The Curriculum Vitae of Umar Shahid can be found here]](https://umarshahid.github.io/Profile)
+
+  <p align="center">
+      <img src="https://github.com/umarshahid/umarshahid/blob/gh-pages/Profile_Photo.JPG" width="185">
+    </p>
