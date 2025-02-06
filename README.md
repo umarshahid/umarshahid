@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/umarshahid/NPRS/blob/master/collage.png" style="width:100%; max-width:600px; height:auto;">
+  <img src="https://github.com/umarshahid/NPRS/blob/master/collage.png" style="width:45%; max-width:600px; height:auto;">
 </p>
 
 # Umar Shahid
@@ -82,9 +82,3 @@ _Desktop application for Pakistani vehicles’ number plates detection using mac
 -**Tools:** MATLAB | MS Office | MS Project | Latex <br>
 -**Research Interest:** Machine Learning | Deep Learning | Artificial Intelligence | EEG | Brain Computer Interface <br>
 -**Hobbies:** Sketching | Book Reading <br>
-
-[[The Curriculum Vitae of Umar Shahid can be found here]](https://umarshahid.github.io/Profile)
-
-  <p align="center">
-      <img src="https://github.com/umarshahid/umarshahid/blob/gh-pages/Profile_Photo.JPG" width="185">
-    </p>
