@@ -35,7 +35,10 @@
   <a href="https://wa.me/923331618963" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://www.researchgate.net/profile/Umar-Shahid" target="_blank">
+  <a href="https://www.linkedin.com/in/umar-shahid-57a983182/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+    <a href="https://www.researchgate.net/profile/Umar-Shahid" target="_blank">
     <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate" />
   </a>
 </p>
