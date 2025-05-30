@@ -9,7 +9,7 @@
       </td>
       <td align="center" width="400px" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; vertical-align: top;">
         <img src="https://github.com/umarshahid/C-python-simulation/blob/master/assets/images/display.png" alt="Aircraft Game using SDL Rendering" width="100%" style="border-radius: 8px;">
-        <h3>Aircraft Game using SDL Rendering</h3>
+        <h3>FlightLab - Flight Simulation</h3>
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl">&nbsp;&nbsp;
