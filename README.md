@@ -45,15 +45,7 @@
         I thrive on complex engineering challenges that demand both architectural foresight and low-level optimization.
       </p>
     </td>
-    <td width="40%" valign="top">
-      <p>
-        <img src="https://img.shields.io/github/followers/umarshahid?label=Followers&style=for-the-badge" alt="Followers" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/github/stars/umarshahid/NPRS?label=NPRS%20Stars&style=for-the-badge" alt="NPRS stars" />
-        <img src="https://img.shields.io/github/stars/umarshahid/C-python-simulation?label=FlightLab%20Stars&style=for-the-badge" alt="FlightLab stars" />
-      </p>
-    </td>
+    
   </tr>
 </table>
 
