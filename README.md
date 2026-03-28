@@ -14,6 +14,9 @@
     <a href="https://www.researchgate.net/profile/Umar-Shahid" target="_blank">
       <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate" />
     </a>
+    <a href="https://umarshahid.github.io/umarshahid/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
   </p>
   <p>
     Software Engineer | React &bull; FastAPI &bull; C++ | Real-time Systems (WebRTC/DIS), PostGIS, Whisper.cpp
@@ -91,6 +94,7 @@
         </a>
       </td>
       <td align="center" width="320">
+        <img src="agent-modeling.png" alt="Simulation Agent Behaviors" width="100%" />
         <h3>Simulation Agent Behaviors</h3>
         <p>HTN-based autonomous behavior modeling in C++ and Qt for realistic agents.</p>
         <a href="https://github.com/umarshahid">
