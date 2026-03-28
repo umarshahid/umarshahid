@@ -46,7 +46,13 @@
       </p>
     </td>
     <td width="40%" valign="top">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=umarshahid&show_icons=true&hide_border=true&theme=transparent&cache_seconds=21600" alt="GitHub stats" />
+      <p>
+        <img src="https://img.shields.io/github/followers/umarshahid?label=Followers&style=for-the-badge" alt="Followers" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/umarshahid/NPRS?label=NPRS%20Stars&style=for-the-badge" alt="NPRS stars" />
+        <img src="https://img.shields.io/github/stars/umarshahid/C-python-simulation?label=FlightLab%20Stars&style=for-the-badge" alt="FlightLab stars" />
+      </p>
     </td>
   </tr>
 </table>
@@ -104,15 +110,23 @@
 <div align="center">
   <table style="border-collapse: separate; border-spacing: 16px;">
     <tr>
-      <td align="center" width="320">
-        <a href="https://github.com/umarshahid/NPRS">
-          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=umarshahid&repo=NPRS&hide_border=true&theme=transparent&cache_seconds=21600" alt="NPRS repo card" />
-        </a>
+      <td align="center" width="320" style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 12px; vertical-align: top;">
+        <h3>NPRS</h3>
+        <p>Automatic Number Plate Recognition system.</p>
+        <p>
+          <img src="https://img.shields.io/github/stars/umarshahid/NPRS?style=for-the-badge" alt="NPRS stars" />
+          <img src="https://img.shields.io/github/last-commit/umarshahid/NPRS?style=for-the-badge" alt="NPRS last commit" />
+        </p>
+        <a href="https://github.com/umarshahid/NPRS">View Repo</a>
       </td>
-      <td align="center" width="320">
-        <a href="https://github.com/umarshahid/C-python-simulation">
-          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=umarshahid&repo=C-python-simulation&hide_border=true&theme=transparent&cache_seconds=21600" alt="C-python-simulation repo card" />
-        </a>
+      <td align="center" width="320" style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 12px; vertical-align: top;">
+        <h3>FlightLab</h3>
+        <p>Flight simulation toolkit with C++ and OpenGL.</p>
+        <p>
+          <img src="https://img.shields.io/github/stars/umarshahid/C-python-simulation?style=for-the-badge" alt="FlightLab stars" />
+          <img src="https://img.shields.io/github/last-commit/umarshahid/C-python-simulation?style=for-the-badge" alt="FlightLab last commit" />
+        </p>
+        <a href="https://github.com/umarshahid/C-python-simulation">View Repo</a>
       </td>
     </tr>
   </table>
@@ -201,8 +215,4 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=umarshahid&hide_border=true&theme=transparent&cache_seconds=21600" alt="GitHub streak" />
 </p>
