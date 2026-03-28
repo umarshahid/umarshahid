@@ -132,7 +132,7 @@
   <tr>
     <td width="25%" valign="top"><strong>NASTP, Pakistan</strong></td>
     <td width="75%" valign="top">
-      <strong>Development Lead</strong>
+      <strong>Development Lead</strong> Jul 2025 - Present
       <br>
       Architected and led development of high-performance web applications using React and FastAPI with scalable, maintainable architecture.
       Designed complex PostgreSQL schemas using PostGIS for spatial processing and TimescaleDB for large-scale time-series data.
@@ -144,7 +144,8 @@
   <tr>
     <td width="25%" valign="top"><strong>NASTP, Pakistan</strong></td>
     <td width="75%" valign="top">
-      <strong>Software Engineer (Autonomous Behaviors)</strong> | Dec 2023 - Present
+      <strong>Software Engineer (Autonomous Behaviors)</strong> | Dec 2023 - Jul 2025
+      <br>
       Integrated HTN-based agent modeling into a C++, OpenGL, and Qt simulation platform.
       Delivered autonomous behaviors aligned with operational objectives and verified with rigorous testing.
       Collaborated across teams to improve systems reliability and workflow efficiency.
@@ -154,6 +155,7 @@
     <td width="25%" valign="top"><strong>NASTP, Pakistan</strong></td>
     <td width="75%" valign="top">
       <strong>Data Scientist</strong> | Nov 2021 - Dec 2023
+      <br>
       Built Python and PyQt modules for a Strategic Decision Support System.
       Delivered analysis tools for DIS data, video streams, and audio recordings.
       Implemented secure client/server recording and real-time streaming.
