@@ -132,7 +132,7 @@
   <tr>
     <td width="25%" valign="top"><strong>NASTP, Pakistan</strong></td>
     <td width="75%" valign="top">
-      <strong>Development Lead</strong> Jul 2025 - Present
+      <strong>Development Lead</strong> | Jul 2025 - Present
       <br>
       Architected and led development of high-performance web applications using React and FastAPI with scalable, maintainable architecture.
       Designed complex PostgreSQL schemas using PostGIS for spatial processing and TimescaleDB for large-scale time-series data.
