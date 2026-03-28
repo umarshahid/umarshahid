@@ -46,7 +46,7 @@
       </p>
     </td>
     <td width="40%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=umarshahid&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=umarshahid&show_icons=true&hide_border=true&theme=transparent&cache_seconds=21600" alt="GitHub stats" />
     </td>
   </tr>
 </table>
@@ -106,12 +106,12 @@
     <tr>
       <td align="center" width="320">
         <a href="https://github.com/umarshahid/NPRS">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=umarshahid&repo=NPRS&hide_border=true&theme=transparent" alt="NPRS repo card" />
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=umarshahid&repo=NPRS&hide_border=true&theme=transparent&cache_seconds=21600" alt="NPRS repo card" />
         </a>
       </td>
       <td align="center" width="320">
         <a href="https://github.com/umarshahid/C-python-simulation">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=umarshahid&repo=C-python-simulation&hide_border=true&theme=transparent" alt="C-python-simulation repo card" />
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=umarshahid&repo=C-python-simulation&hide_border=true&theme=transparent&cache_seconds=21600" alt="C-python-simulation repo card" />
         </a>
       </td>
     </tr>
@@ -204,5 +204,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=umarshahid&hide_border=true&theme=transparent" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=umarshahid&hide_border=true&theme=transparent&cache_seconds=21600" alt="GitHub streak" />
 </p>
